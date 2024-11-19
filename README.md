@@ -44,7 +44,9 @@ pip install  -r requirements.txt
    ```
    python gui.py
    ```
+   ![GUI Screenshot](images/gui_screenshot.png)
    - For Command line interface
    ```
    python cli.py
    ```
+   ![CLI Screenshot](images/cli_screenshot.png)
